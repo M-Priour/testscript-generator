@@ -1,4 +1,4 @@
-require 'SecureRandom'
+require 'securerandom'
 
 class WorkflowBuilder
   # methods = { 'create' => :post,
