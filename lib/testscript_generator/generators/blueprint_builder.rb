@@ -1,4 +1,4 @@
-require 'SecureRandom'
+require 'securerandom'
 require_relative 'interactions/interactions'
 
 # This is a duplicate of the workflow_builder in the /testscript_generator
